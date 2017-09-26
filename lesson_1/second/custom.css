@@ -1,0 +1,28 @@
+body {
+  background-color: yellow;
+}
+.blue {
+    background-color: blue;
+    width: 100%;
+    height: 120px;
+    padding: 0 0;
+}
+.red {
+  background-color: red;
+  width: 430px;
+  height: 800px;
+}
+.grey {
+  background-color: grey;
+  width: 430px;
+  height: 800px;
+
+}
+.green {
+  background-color: green;
+  width: 100%;
+  height: 120px;
+}
+table {
+  border-spacing: inherit;
+}
